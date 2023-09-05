@@ -1,0 +1,7 @@
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\vikvarennyk\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
